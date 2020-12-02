@@ -1,0 +1,39 @@
+{
+  "02-12-2020": [
+    {
+      "title": "wfwefwefwefef",
+      "date": "02-12-2020",
+      "id": 3
+    },
+    {
+      "title": "sdfsdfsdfsdf",
+      "date": "02-12-2020",
+      "id": 4
+    },
+    {
+      "title": "fwefwefewf",
+      "date": "02-12-2020",
+      "id": 5
+    }
+  ],
+  "03-12-2020": [
+    {
+      "id": 2,
+      "title": "Привет!",
+      "date": "sdfgsdfsdfsdf"
+    },
+    {
+      "title": "werfwefwefwef",
+      "date": "03-12-2020",
+      "id": 3
+    }
+  ],
+  "04-12-2020": [
+    {
+      "title": "gwergregerg",
+      "date": "04-12-2020",
+      "id": 1
+    }
+  ],
+  "05-12-2020": []
+}
